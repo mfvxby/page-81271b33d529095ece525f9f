@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-0550ae9069.skmbaxv.cn/sitemap.xml
